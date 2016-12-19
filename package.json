@@ -1,0 +1,27 @@
+{
+  "name": "opencv-realtime",
+  "version": "0.0.1",
+  "description": "Learning opencv library with realtime use case",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekbharatha/opencv-realtime.git"
+  },
+  "author": "VivekBharatha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivekbharatha/opencv-realtime/issues"
+  },
+  "homepage": "https://github.com/vivekbharatha/opencv-realtime#readme",
+  "dependencies": {
+    "express": "4.14.0",
+    "http": "0.0.0",
+    "morgan": "1.7.0",
+    "opencv": "6.0.0",
+    "socket.io": "1.7.2"
+  }
+}

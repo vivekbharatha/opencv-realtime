@@ -1,0 +1,14 @@
+{
+  "name": "opencv-realtime",
+  "homepage": "https://github.com/vivekbharatha/opencv-realtime",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
