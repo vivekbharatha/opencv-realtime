@@ -1,2 +1,2 @@
 # opencv-realtime
-Learning opencv library with realtime usecase
+Learning opencv library with realtime use case
